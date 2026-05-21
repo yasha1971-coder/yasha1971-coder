@@ -1,16 +1,21 @@
-## Hi there 👋
+# Yakiv (Contour)
 
-<!--
-**yasha1971-coder/yasha1971-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent systems developer.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[ACEAPEX](https://github.com/yasha1971-coder/aceapex)** — high performance parallel compression engine
+  - 2.2–2.5x faster decode than zstd on structured data
+  - Merged into [lzbench](https://github.com/inikep/lzbench) (PRs #276, #277)
+  - Tested on EPYC 4344P and EPYC 9575F
+
+- **GLYPH** — deterministic retrieval engine
+
+## Research interests
+
+compression • memory bandwidth • retrieval systems • performance engineering
+
+## Links
+
+- Website: https://glyph.rs
+- lzbench: https://github.com/inikep/lzbench
