@@ -17,7 +17,7 @@ compression • memory bandwidth • retrieval systems • performance engineeri
 
 ## Inspiration
 
-[Poincaré Conjecture — interactive visualization](https://claude.ai/public/artifacts/3af670d8-8944-4e10-9778-c10d00db4e9d)
+[![Geometrization](https://img.youtube.com/vi/ygXwaj97c5U/maxresdefault.jpg)](https://youtu.be/ygXwaj97c5U)
 
 *Every simply connected, closed 3-manifold is homeomorphic to S³.*
 
