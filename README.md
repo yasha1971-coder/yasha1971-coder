@@ -1,26 +1,11 @@
-# Yakiv (Contour)
+```
+Yakiv Shavidze · ORCID 0009-0008-3622-3448
 
-Independent systems developer.
+panvram — 558 HPRC assemblies, 1.68 Tbp, 11.567 GB resident on one A100-40GB.
+          exact random windows into PyTorch. arXiv:2610.25149
+aceapex — parallel LZ77, absolute back-references, independent blocks.
+          multithread + GPU decode. in lzbench
+hw-apex-bench — random access into compressed data, measured on hardware
 
-## Projects
-
-- **[ACEAPEX](https://github.com/yasha1971-coder/aceapex)** — high performance parallel compression engine
-  - 2.2–2.5x faster decode than zstd on structured data
-  - Merged into [lzbench](https://github.com/inikep/lzbench) (PRs #276, #277)
-  - Tested on EPYC 4344P and EPYC 9575F
-
-- **GLYPH** — deterministic retrieval engine
-
-## Research interests
-
-compression • memory bandwidth • retrieval systems • performance engineering
-
-## Inspiration
-
-[![Geometrization](https://img.youtube.com/vi/ygXwaj97c5U/maxresdefault.jpg)](https://youtu.be/ygXwaj97c5U)
-
-*Every simply connected, closed 3-manifold is homeomorphic to S³.*
-
-## Links
-
-- lzbench: https://github.com/inikep/lzbench
+numbers have logs in the repos. if a number has no log, it is not here.
+```
